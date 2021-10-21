@@ -66,4 +66,4 @@
 
         // Find The Area Of A Circle
         let radius = 7;
-        console.log("The Area =", Math.PI * Math.pow(7, 2));
+        console.log("The Area =", Math.PI * Math.pow(radius, 2));
